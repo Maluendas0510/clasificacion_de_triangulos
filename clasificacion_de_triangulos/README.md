@@ -1,0 +1,1 @@
+![diagrama de flujo](diagrama_triangulo.png "diagrama de flujo")
